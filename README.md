@@ -9,7 +9,7 @@ Learn how to use The Stack Navigator, Drawer Navigator and Tab Navigator in Comb
 ## Installation Instructions 
 
 ```js
- $ git clone https://github.com/nathvarun/React-Navigation-Structuring-Your-App.git
- $ cd React-Navigation-Structuring-Your-App
+ $ git clone https://github.com/ZaiMongMot/Series8.git
+ $ cd Series8
  $ npm install 
 ```
